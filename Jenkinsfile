@@ -1,6 +1,6 @@
 node('master') 
 {
-    stage('Continuous Download_master') 
+    stage('Continuous Download_mastr') 
 	{
     git 'https://github.com/sunildevops77/maven.git'
 	}
